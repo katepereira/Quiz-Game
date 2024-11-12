@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Quiz!</h1>
+
+        <div id="welcome-section">
+            <button id="start-quiz-btn">Start Quiz</button>
+        </div>
+
+        <div id="topic-selection-section" style="display: none;">
+            <label for="topic-select">Select a Topic</label>
+            <select id="topic-select"></select>
+            <button id="start-topic-quiz-btn">Start Quiz</button>
+        </div>
+
+        <div id="quiz-section" style="display: none;">
+            <h2>Quiz Questions</h2>
+            <div id="questions-section"></div>
+            <button id="submit-quiz-btn" style="display: none;">Submit Quiz</button>
+        </div>
+
+        <div id="results-section" style="display: none;">
+            <h2>Results</h2>
+            <div id="results-content"></div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

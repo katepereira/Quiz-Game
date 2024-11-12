@@ -1,0 +1,195 @@
+{
+    "1": {
+      "question": "What does AI stand for?",
+      "options": {
+        "a": "Artificial Intelligence",
+        "b": "Automated Information",
+        "c": "Advanced Integration",
+        "d": "Artificial Interaction"
+      },
+      "answer": "a",
+      "more_info": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "user_response": "None"
+    },
+  
+    "2": {
+      "question": "Which of the following is a common programming language used in AI?",
+      "options": {
+        "a": "HTML",
+        "b": "Python",
+        "c": "CSS",
+        "d": "JavaScript"
+      },
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "user_response": "None"
+    },
+  
+    "3": {
+      "question": "What is the primary goal of machine learning?",
+      "options": {
+        "a": "To create static algorithms",
+        "b": "To enable computers to learn from data",
+        "c": "To replace human intelligence",
+        "d": "To improve hardware performance"
+      },
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/Machine_learning",
+      "user_response": "None"
+    },
+  
+    "4": {
+      "question": "Which AI technique is used for image recognition?",
+      "options": {
+        "a": "Natural Language Processing",
+        "b": "Deep Learning",
+        "c": "Reinforcement Learning",
+        "d": "Expert Systems"
+      },
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/Deep_learning",
+      "user_response": "None"
+    },
+  
+    "5": {
+      "question": "What is the Turing Test used for?",
+      "options": {
+        "a": "Measuring computer speed",
+        "b": "Determining machine intelligence",
+        "c": "Testing software bugs",
+        "d": "Evaluating network security"
+      },
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/Turing_test",
+      "user_response": "None"
+    },
+  
+    "6": {
+      "question": "Which company developed the AI program called Watson?",
+      "options": {
+        "a": "Google",
+        "b": "IBM",
+        "c": "Microsoft",
+        "d": "Facebook"
+      },
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/IBM_Watson",
+      "user_response": "None"
+    },
+  
+    "7": {
+      "question": "What is a neural network?",
+      "options": {
+        "a": "A type of computer virus",
+        "b": "A biological brain model",
+        "c": "A system of algorithms modeled after the human brain",
+        "d": "A network of physical computers"
+      },
+      "answer": "c",
+      "more_info": "https://en.wikipedia.org/wiki/Neural_network",
+      "user_response": "None"
+    },
+  
+    "8": {
+      "question": "Which of the following is an example of AI in everyday life?",
+      "options": {
+        "a": "Email filtering",
+        "b": "Using a calculator",
+        "c": "Playing video games",
+        "d": "Watching television"
+      },
+      "answer": "a",
+      "more_info": "https://en.wikipedia.org/wiki/Artificial_intelligence#Applications",
+      "user_response": "None"
+    },
+  
+    "9": {
+      "question": "What is reinforcement learning?",
+      "options": {
+        "a": "Learning through observation",
+        "b": "Learning through rewards and punishments",
+        "c": "Learning by memorization",
+        "d": "Learning from static data"
+      },
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "user_response": "None"
+    },
+  
+    "10": {
+      "question": "What is the purpose of natural language processing (NLP)?",
+      "options": {
+        "a": "To analyze large datasets",
+        "b": "To enable machines to understand human language",
+        "c": "To improve computer graphics",
+        "d": "To manage databases"
+      },
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/Natural_language_processing",
+      "user_response": "None"
+    },
+    "11": {
+        "question": "Which AI concept involves creating systems that can perform tasks without explicit instructions?",
+        "options": {
+          "a": "Supervised Learning",
+          "b": "Unsupervised Learning",
+          "c": "Autonomous Systems",
+          "d": "Generative Adversarial Networks"
+        },
+        "answer": "c",
+        "more_info": "https://en.wikipedia.org/wiki/Autonomous_robot",
+        "user_response": "None"
+      },
+    
+      "12": {
+        "question": "What is the main function of chatbots?",
+        "options": {
+          "a": "To play games",
+          "b": "To simulate conversation with users",
+          "c": "To manage databases",
+          "d": "To perform mathematical calculations"
+        },
+        "answer": "b",
+        "more_info": "https://en.wikipedia.org/wiki/Chatbot",
+        "user_response": "None"
+      },
+    
+      "13": {
+        "question": "Which of the following is a popular AI framework for building machine learning models?",
+        "options": {
+          "a": "Django",
+          "b": "TensorFlow",
+          "c": "Bootstrap",
+          "d": "React"
+        },
+        "answer": "b",
+        "more_info": "https://en.wikipedia.org/wiki/TensorFlow",
+        "user_response": "None"
+      },
+    
+      "14": {
+        "question": "What type of data does supervised learning use?",
+        "options": {
+          "a": "Unlabeled data",
+          "b": "Labeled data",
+          "c": "Structured data only",
+          "d": "Random data"
+        },
+        "answer": "b",
+        "more_info": "https://en.wikipedia.org/wiki/Supervised_learning",
+        "user_response": "None"
+      },
+    
+      "15": {
+        "question": "What is a common ethical concern associated with AI?",
+        "options": {
+          "a": "Increased computational power",
+          "b": "Data privacy and security",
+          "c": "Improved user experience",
+          "d": "Faster internet speeds"
+        },
+        "answer": "b",
+        "more_info": "https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence",
+        "user_response": "None"
+      }
+    }
